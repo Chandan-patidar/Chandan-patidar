@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-patidar&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-patidar" /> </p>
 
 
 **Chandan-patidar/Chandan-patidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
